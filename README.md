@@ -63,4 +63,4 @@ I'm Leandro Lovisolo, a computer science student at
 You can get in touch with me via email at `leandro@leandro.me` or via Twitter
 [@LeandroLovisolo](http://twitter.com/LeandroLovisolo).
 
-Check out my blog at (http://leandro.me)[http://leandro.me].
+Check out my blog at [http://leandro.me](http://leandro.me).
