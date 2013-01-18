@@ -34,8 +34,10 @@ To see a list of options, simply invoke Hangman with no parameters:
     
     Example:
       $ cat words.txt | hang h__se aimn
-      horse
-      house
+        hesse
+        house
+        horse
+        house
     
     Project page: http://github.com/LeandroLovisolo/hangman
           Author: Leandro Lovisolo <leandro@leandro.me>
