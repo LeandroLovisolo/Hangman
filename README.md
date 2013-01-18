@@ -42,9 +42,25 @@ To see a list of options, simply invoke Hangman with no parameters:
     Project page: http://github.com/LeandroLovisolo/hangman
           Author: Leandro Lovisolo <leandro@leandro.me>
 
-*Tip:* create a terminal alias for hang:
+**Tip:** create a terminal alias for hang:
 
     $ alias hang="cat words.txt | ./hang"
 
 The word list included with Hangman (`words.txt`) was taken from GNU Aspell
 [ftp://ftp.gnu.org/gnu/aspell/dict/0index.html](ftp://ftp.gnu.org/gnu/aspell/dict/0index.html)
+
+License
+-------
+
+Public domain.
+
+About the author
+----------------
+
+I'm Leandro Lovisolo, a computer science student at
+[Universidad de Buenos Aires](http://www.dc.uba.ar).
+
+You can get in touch with me via email at `leandro@leandro.me` or via Twitter
+[@LeandroLovisolo](http://twitter.com/LeandroLovisolo).
+
+Check out my blog at (http://leandro.me)[http://leandro.me].
