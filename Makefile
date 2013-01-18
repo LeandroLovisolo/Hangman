@@ -1,2 +1,2 @@
-hang: hang.hs
-	ghc hang.hs
+hang: Hangman.hs
+	ghc Hangman.hs -o hang
