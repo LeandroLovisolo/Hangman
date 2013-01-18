@@ -1,4 +1,4 @@
-hangman
+Hangman
 =======
 
 Hangman game solver written in Haskell.
@@ -44,5 +44,5 @@ To see a list of options, simply invoke Hangman with no parameters:
 
     $ alias hang="cat words.txt | ./hang"
 
-The word list included in this repository (`words.txt`) was taken from
-GNU Aspell [ftp://ftp.gnu.org/gnu/aspell/dict/0index.html](ftp://ftp.gnu.org/gnu/aspell/dict/0index.html)
+The word list included with Hangman (`words.txt`) was taken from GNU Aspell
+[ftp://ftp.gnu.org/gnu/aspell/dict/0index.html](ftp://ftp.gnu.org/gnu/aspell/dict/0index.html)
